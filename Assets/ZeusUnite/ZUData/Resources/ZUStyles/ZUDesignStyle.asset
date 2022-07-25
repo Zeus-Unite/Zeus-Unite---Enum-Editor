@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee8715aeda09a9d4da7e32544667b7f6, type: 3}
+  m_Name: ZUDesignStyle
+  m_EditorClassIdentifier: 
+  boxBackgroundColor: {r: 0.050551802, g: 0.09382405, b: 0.1509434, a: 1}
+  fontNormalColor: {r: 0.9245283, g: 0.9245283, b: 0.9245283, a: 1}
+  fontMultiplier: 1
+  titleColor: {r: 0.9607844, g: 0.9215687, b: 0.3019608, a: 1}
+  titleFontColor: {r: 0, g: 0, b: 0, a: 1}
+  buttonColor: {r: 0, g: 0.5, b: 0.8, a: 1}
+  buttonHoverColor: {r: 0, g: 0.4143544, b: 0.6603774, a: 1}
+  buttonFontColor: {r: 1, g: 1, b: 1, a: 1}
+  buttonFontHoverColor: {r: 1, g: 1, b: 1, a: 1}
+  infoBoxBackgroundColor: {r: 0.44783413, g: 0.4528302, b: 0.30544677, a: 1}
+  infoBoxFontColor: {r: 1, g: 1, b: 1, a: 1}
+  acceptButtonColor: {r: 0.251068, g: 0.5849056, b: 0.2832153, a: 1}
+  acceptButtonFontColor: {r: 0, g: 0, b: 0, a: 1}
+  declineButtonColor: {r: 0.6415094, g: 0.17853329, b: 0.17853329, a: 1}
+  declineButtonFontColor: {r: 1, g: 1, b: 1, a: 1}
+  IsActive: 1
