@@ -54,7 +54,7 @@ namespace ZeusUnite
 
 
 
-        [MenuItem("Tools/Zeus Unite/Enum Editor", priority = 19)]
+        [MenuItem("Tools/Zeus Unite/Enum Editor", priority = 52)]
         public static void ShowWindow()
         {
             //Show existing window instance. If one doesn't exist, make one.
